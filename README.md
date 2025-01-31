@@ -1,6 +1,6 @@
 
 # Player Selection Site
-
+https://player-selection-application.netlify.app/
 ## Description
 The Player Selection App allows users to select and manage a list of players with a limited number of "coins." Users can add players to a selection list, provided they have enough coins, and remove players if desired. The app helps in creating a roster of players within specified constraints.
 
